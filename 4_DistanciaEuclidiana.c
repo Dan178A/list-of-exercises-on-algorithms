@@ -1,7 +1,7 @@
 /*
 Escriba una funcion que reciba las coordenadas de dos puntos del plano, y calcule
 su distancia euclıdea. La distancia euclıdea entre dos puntos del plano cartesiano
-viene dada por: d(p1,p2) = √(x1 - x2)² + (y1 - y2)²   donde p1 = (x1, y1) y p2 = (x2, y2) en c
+viene dada por: d(p1,p2) = √(x1 - x2)² + (y1 - y2)²   donde p1 = (x1, y1) y p2 = (x2, y2) 
 */
 #include<stdio.h>
 #include<math.h>
