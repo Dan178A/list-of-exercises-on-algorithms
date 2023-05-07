@@ -1,5 +1,6 @@
 # list-of-exercises-on-algorithms
 Lista de ejercios de algorimos
+> Note: puede hacer click en cualquiero Archivo.c Ejemplo: [8_Count_words_characters_lines.c](8_Count_words_characters_lines.c) para verlo. 
 
 [1_Number_is_Prime.c](1_Number_is_Prime.c)
  * Escribir una funcion que calcule si un numero es primo (un numero primo es
