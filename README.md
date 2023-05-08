@@ -218,7 +218,8 @@ int main() {
 }
 ```
 [6_Remove_Duplicates.c](6_Remove_Duplicates.c)
- *Problem: Escriba una funcion que elimine los caracteres repetidos de una cadena de caracteres
+  
+  * Problem: Escriba una funcion que elimine los caracteres repetidos de una cadena de caracteres
   > La función elimina los caracteres duplicados de una cadena determinada.
  > @param str una matriz de caracteres (cadena) que contiene la cadena de entrada que se procesará y
  > eliminará los duplicados.
